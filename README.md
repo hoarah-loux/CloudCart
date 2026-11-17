@@ -1,4 +1,4 @@
-# Cloud Demo
+# CloudCart
 
 A cloud computing demonstration project built around a **microservices architecture** using Python and FastAPI.
 
