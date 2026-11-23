@@ -2,7 +2,7 @@
 
 A cloud computing demonstration project built around a **microservices architecture** using Python and FastAPI.
 
-Cloud Demo explores the fundamentals of distributed application development, including independent services, database integration, inter-service communication, containerization, and automated CI/CD pipelines.
+CloudCart explores the fundamentals of distributed application development, including independent services, database integration, inter-service communication, containerization, and automated CI/CD pipelines.
 
 The project consists of two independently structured services: a User Service and an Orders Service.
 
